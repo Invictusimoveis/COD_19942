@@ -1,0 +1,25 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_18CA78C4_1491_CDC0_418D_5CF7118A5C33.label = Banheiro
+panorama_1E563A9D_1492_CC40_41AB_4BAC625DD8B5.label = Corredor externo 1
+panorama_1E502923_1497_CC40_41B0_15C6F1D4C34C.label = Corredor externo 2
+panorama_1E57495B_1491_4CC0_41B3_7FE586260786.label = Corredor externo 3
+panorama_1E56BF1E_1492_C440_41A4_6A36725C21A3.label = Corredor1
+panorama_1E55DCC2_1491_45C0_4187_437E2B4C4DFD.label = Corredor2
+panorama_1E5497A2_149E_C440_41A7_2318E4015B13.label = Cozinha
+panorama_1E5BB3FA_1492_C3C1_4178_182B45FACC39.label = Garagem
+panorama_1E5A384A_1493_4CC1_419E_D01CA4A77375.label = Quarto
+panorama_1E5B0AB2_1493_CC40_4185_0253D41B1214.label = Sala
+panorama_1E5BDD59_1493_44C3_4185_7998C6A1126A.label = Sala_
+panorama_1E25B04B_1497_FCC0_41AC_8672E5605358.label = Suíte
+panorama_1E5E730F_1491_DC40_416A_0008121031F0.label = Suíte_banheiro
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 9
